@@ -18,7 +18,6 @@ $(document).ready(function(event) {
   var newPlayer = new Player();
 
   $("#s1").click(function(event) {
-    newPlayer.space(this.player1);
-    alert(this.player1);
+    $("#s1-value").text(newPlayer.player1);
   });
 });

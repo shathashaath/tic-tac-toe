@@ -20,7 +20,7 @@ No known bugs.
 
 The program should handle: | Example Input | Example Output
 ----- | ----- | -----
-Spec 1 | Example Input:  | Example Output:
+Make X show up when a blank space is clicked on | Example Input:  | Example Output:
 
 ## Support and Contact Details
 
